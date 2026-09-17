@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Assistant",
+  "description": "Generate clear, professional business emails with AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
